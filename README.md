@@ -25,3 +25,4 @@ Run the cells step-by-step to explore the data and insights.
 Requirements
 
 To run the notebook locally, install the required dependencies:
+pip install -r requirements.txt
